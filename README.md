@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://fullcycle.com.br/" target="blank"><img src="https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/fullcycle-logo.svg"/></a>
-</p>
-
 # Guia rápido do WSL2 + Docker
 
 ## O que é o WSL2 
